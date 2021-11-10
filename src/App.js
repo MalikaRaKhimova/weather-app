@@ -5,7 +5,7 @@ import cloud from './cloudy.png'
 import DateBuilder from './components/date';
 
 const api = {
-  key: "714d8cb3c78c99c70f5870c32bd48bb3",
+  key: "1f304838783d954c8ab2f1a1a631f30e",
   base: "https://api.openweathermap.org/data/2.5/"
 }
 
